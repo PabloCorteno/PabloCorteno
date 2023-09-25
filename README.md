@@ -1,16 +1,29 @@
 Hi ! 👋 My Name Is Pablo Corteño.
-Im studying an engineer in computer systems.
+
+Im studying an engineer in computer systems. 🖥️
+
 I have basic knowlegde on:
--Python
--Java
--SQL
--MatLab
+
+-Python 🐍
+
+-Java ♨️
+
+-SQL 📁
+
+-MatLab 🧮
+
 I have intermediate knowledge on:
--C++
--C#
--Networking
--Linux Terminal
--Office
+
+
+-C++ ➕
+
+-C# ✨
+
+-Networking 🌐
+
+-Linux Terminal 🔏
+
+-Office 📋
 
 
 
