@@ -1,8 +1,8 @@
 Hi ! 👋 My Name Is Pablo Corteño.
 
-Im studying an engineer in computer systems. 🖥️
+Im a computer systems engineer. 🖥️
 
-I have basic knowlegde on:
+I have experience on:
 
 -Python 🐍
 
